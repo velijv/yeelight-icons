@@ -1,4 +1,8 @@
-# Yeelight Font Awesome Icons (for @home-assistant)
+# Yeelight Font Awesome Icons Home Assistant
+
+[![Yeelight](https://img.shields.io/badge/-Yeelight-000?logo=HomeAssistant&logoColor=fff&labelColor=DF2B2F&style=flat&color=5A5B5B)](https://github.com/home-assistant)
+[![Home Assistant](https://img.shields.io/badge/Home-Assistant-000?logo=HomeAssistant&logoColor=fff&labelColor=41BDF5&style=flat&color=rgba(108,204,247,1))](https://github.com/home-assistant)
+[![Font Awesome](https://img.shields.io/badge/Font-Awesome-000?logo=FontAwesome&logoColor=fff&labelColor=538dd7&style=flat&color=183153)](https://github.com/home-assistant)
 
 **Font Awesome 6** duotone-compatible SVG icons for **Yeelight** devices. Created for personal use for [Home Assistant](https://github.com/home-assistant) with [hass-fontawesome](https://github.com/thomasloven/hass-fontawesome). 
 
