@@ -1,12 +1,12 @@
 # Yeelight Font Awesome Icons (for @home-assistant)
 
-**Font Awesome 6**-compatible SVG icons for **Yeelight** devices
+**Font Awesome 6** duotone-compatible SVG icons for **Yeelight** devices. Created for personal use for [Home Assistant](https://github.com/home-assistant) with [hass-fontawesome](https://github.com/thomasloven/hass-fontawesome). 
+
+![gu10](./icons/yeelight-gu10.svg) ![gu10](./icons/yeelight-gu10.svg)
 
 
 
-
-
-Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
