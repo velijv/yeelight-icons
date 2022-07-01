@@ -7,27 +7,27 @@ Created to be used with [hass-fontawesome](https://github.com/thomasloven/hass-f
 [![Home Assistant](https://img.shields.io/badge/Home-Assistant-000?logo=HomeAssistant&logoColor=fff&labelColor=41BDF5&style=flat&color=rgba(108,204,247,1))](https://github.com/home-assistant)
 [![Font Awesome](https://img.shields.io/badge/Font-Awesome-000?logo=FontAwesome&logoColor=fff&labelColor=538dd7&style=flat&color=183153)](https://github.com/home-assistant)
 
-Made by: 
+Process: 
 - unpacking yeelight app .apk 
 - and browsing through the thousands of files
 - tracing them in vector
-- converting to font-awesome format
+- converting to font-awesome compatible format
 
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/velijv/yeelight-font-awesome-icons"><img src="./svg/yeelight.svg" width="100" height="100" alt="Yeelight"></a></td> 
-    <td align="center"><a href="./svg/yeelight-group.svg"><img src="./svg/yeelight-group.svg" width="100" height="100" alt="bulb"></a></td>
-    <td align="center"><a href="./svg/yeelight-bulb.svg"><img src="./svg/yeelight-bulb.svg" width="100" height="100" alt="bulb"></a></td>    
-    <td align="center"><a href="./svg/yeelight-filament.svg"><img src="./svg/yeelight-filament.svg" width="100" height="100" alt="filament"></a></td>
-    <td align="center"><a href="./svg/yeelight-gu10.svg"><img src="./svg/yeelight-gu10.svg" width="100" height="100" alt="gu10"></a></td>
-    <td align="center"><a href="./svg/yeelight-strip.svg"><img src="./svg/yeelight-strip.svg" width="100" height="100" alt="strip"></a></td>
-    <td align="center"><a href="./svg/yeelight-desk.svg"><img src="./svg/yeelight-desk.svg" width="100" height="100" alt="desk"></a></td>
-    <td align="center"><a href="./svg/yeelight-candela.svg"><img src="./svg/yeelight-candela.svg" width="100" height="100" alt="candela"></a></td>    
-    <td align="center"><a href="./svg/yeelight-bedside-2.svg"><img src="./svg/yeelight-bedside-2.svg" width="100" height="100" alt="bedside-2"></a></td>
-    <td align="center"><a href="./svg/yeelight-bedside-d2.svg"><img src="./svg/yeelight-bedside-d2.svg" width="100" height="100" alt="bedside-d2"></a></td>
-    <td align="center"><a href="./svg/yeelight-bar-front.svg"><img src="./svg/yeelight-bar-front.svg" width="100" height="100" alt="bar-front"></a></td>
-    <td align="center"><a href="./svg/yeelight-bar-back.svg"><img src="./svg/yeelight-bar-back.svg" width="100" height="100" alt="bar-front"></a></td>
+    <td align="center"><a href="https://github.com/velijv/yeelight-font-awesome-icons"><img src="./svg/yeelight.svg" width="100" height="50" alt="Yeelight"></a></td> 
+    <td align="center"><a href="./svg/yeelight-group.svg"><img src="./svg/yeelight-group.svg" width="100" height="50" alt="bulb"></a></td>
+    <td align="center"><a href="./svg/yeelight-bulb.svg"><img src="./svg/yeelight-bulb.svg" width="100" height="50" alt="bulb"></a></td>    
+    <td align="center"><a href="./svg/yeelight-filament.svg"><img src="./svg/yeelight-filament.svg" width="100" height="50" alt="filament"></a></td>
+    <td align="center"><a href="./svg/yeelight-gu10.svg"><img src="./svg/yeelight-gu10.svg" width="100" height="50" alt="gu10"></a></td>
+    <td align="center"><a href="./svg/yeelight-strip.svg"><img src="./svg/yeelight-strip.svg" width="100" height="50" alt="strip"></a></td>
+    <td align="center"><a href="./svg/yeelight-desk.svg"><img src="./svg/yeelight-desk.svg" width="100" height="50" alt="desk"></a></td>
+    <td align="center"><a href="./svg/yeelight-candela.svg"><img src="./svg/yeelight-candela.svg" width="100" height="50" alt="candela"></a></td>    
+    <td align="center"><a href="./svg/yeelight-bedside-2.svg"><img src="./svg/yeelight-bedside-2.svg" width="100" height="50" alt="bedside-2"></a></td>
+    <td align="center"><a href="./svg/yeelight-bedside-d2.svg"><img src="./svg/yeelight-bedside-d2.svg" width="100" height="50" alt="bedside-d2"></a></td>
+    <td align="center"><a href="./svg/yeelight-bar-front.svg"><img src="./svg/yeelight-bar-front.svg" width="100" height="50" alt="bar-front"></a></td>
+    <td align="center"><a href="./svg/yeelight-bar-back.svg"><img src="./svg/yeelight-bar-back.svg" width="100" height="50" alt="bar-front"></a></td>
   </tr>   
 </table>
 
