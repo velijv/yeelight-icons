@@ -1,3 +1,4 @@
+![yeelight-icons](https://user-images.githubusercontent.com/5716539/176972222-ea149650-71da-4c8b-a951-0e5256ae8795.png)
 # Yeelight 🔥 Font Awesome duotone icons for Home Assistant
 
 Created to be used with [hass-fontawesome](https://github.com/thomasloven/hass-fontawesome). 
@@ -7,11 +8,18 @@ Created to be used with [hass-fontawesome](https://github.com/thomasloven/hass-f
 [![Home Assistant](https://img.shields.io/badge/Home-Assistant-000?logo=HomeAssistant&logoColor=fff&labelColor=41BDF5&style=flat&color=rgba(108,204,247,1))](https://github.com/home-assistant)
 [![Font Awesome](https://img.shields.io/badge/Font-Awesome-000?logo=FontAwesome&logoColor=fff&labelColor=538dd7&style=flat&color=183153)](https://github.com/home-assistant)
 
-Process: 
-- unpacking yeelight app .apk 
-- and browsing through the thousands of files
-- tracing them in vector
-- converting to font-awesome compatible format
+<details> 
+<summary> ⚒️ Work process </summary>
+
+1. unpacking yeelight app .apk 
+2. and browsing through the thousands of files
+3. tracing them in vector
+4. converting to font-awesome compatible format
+5. minifying and optimizing SVG
+
+</details>
+
+
 
 
 <table>
@@ -53,15 +61,16 @@ Made for what I have at home.
 
 If you'd like to request a new icon, I will create it based on the device you send me. 😉
 
+
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/velijv/yeelight-font-awesome-icons"><img src="./svg/yeelight.svg" width="100" height="100" alt="Yeelight"></a></td>    
+    <td align="center"><a href="https://user-images.githubusercontent.com/5716539/176973446-3d770d02-9016-40fe-a76e-680e2cf7e558.png"><img src="https://user-images.githubusercontent.com/5716539/176973446-3d770d02-9016-40fe-a76e-680e2cf7e558.png" width="100" height="100" alt="Yeelight"></a></td>    
     <td align="center"><a href="./svg/yeelight-group.svg"><img src="./svg/yeelight-group.svg" width="100" height="100" alt="bulb"></a></td>
     <td align="center"><a href="./svg/yeelight-bulb.svg"><img src="./svg/yeelight-bulb.svg" width="100" height="100" alt="bulb"></a></td>    
     <td align="center"><a href="./svg/yeelight-filament.svg"><img src="./svg/yeelight-filament.svg" width="100" height="100" alt="filament"></a></td>
   </tr>
   <tr>
-    <td align="center"><h4>🔥</h4></td>    
+    <td align="center"><h4>Example Lovelace Card</h4></td>    
     <td align="center"><h4>Bulb Group</h4></td>
     <td align="center"><h4>Generic YLDP*YL Bulb</h4></td>
     <td align="center"><h4>Filament Bulb YLDP23YL</h4></td>
@@ -92,10 +101,12 @@ If you'd like to request a new icon, I will create it based on the device you se
   </tr>  
 </table>
 
-###### This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
-
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
+
+###### This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+
+###### All product names, logos, and brands are property of their respective owners. All company, product and service names used are for identification purposes only. Use of these names, logos, and brands does not imply endorsement.
