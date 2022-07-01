@@ -43,13 +43,14 @@ change icon to `fapro:yeelight-filename`, ie. `fapro:yeelight-gu10`. Supports al
 ## ✨ Extra
 
 Some icons have linear gradients or glows in `#fullcolor` mode:
-- filament
-- bar-front, bar-back
-- desk
+- `filament`
+- `bar-front`, `bar-back`
+- `desk`
 
-## Icons
+## 💡 Icons
 
 Made for what I have at home. 
+
 If you'd like to request a new icon, I will create it based on the device you send me. 😉
 
 <table>

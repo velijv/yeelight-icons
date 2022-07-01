@@ -1,12 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
-<style type="text/css">
-	.fa-secondary{opacity:0.4;}
-</style>
-	<path class="fa-secondary" d="M256,399.7c-59,0-106.8-15.5-106.8-34.7v104.8c0,23.3,47.8,42.1,106.8,42.1
-		s106.8-18.9,106.8-42.1V365.1C362.8,384.2,315,399.7,256,399.7z"/>
-	<path class="fa-primary" d="M256,0c-59,0-106.8,10.4-106.8,23.3v341.7c0,19.2,47.8,34.7,106.8,34.7s106.8-15.5,106.8-34.7V23.3
-		C362.8,10.4,315,0,256,0z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--author: veli.ee | source: https://github.com/velijv/yeelight-icons | licence: CC-BY-NC-SA--><style>.fa-secondary{opacity:.4}</style><path d="M256 399.7c-59 0-106.8-15.5-106.8-34.7v104.8c0 23.3 47.8 42.1 106.8 42.1s106.8-18.9 106.8-42.1V365.1c0 19.1-47.8 34.6-106.8 34.6z" class="fa-secondary"/><path d="M256 0c-59 0-106.8 10.4-106.8 23.3V365c0 19.2 47.8 34.7 106.8 34.7s106.8-15.5 106.8-34.7V23.3C362.8 10.4 315 0 256 0z" class="fa-primary"/></svg>
