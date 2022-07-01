@@ -2,9 +2,9 @@
 
 <table>
   <tr>
-    <td align="center"><a href="./icons/yeelight-group.svg"><img src="./icons/yeelight-group.svg" width="400" height="100" alt="bulb"></a></td>
-    <td align="center"><a href="./icons/yeelight-bulb.svg"><img src="./icons/yeelight-bulb.svg" width="400" height="100" alt="bulb"></a></td>    
-    <td align="center"><a href="./icons/yeelight-filament.svg"><img src="./icons/yeelight-filament.svg" width="400" height="100" alt="filament"></a></td>
+    <td align="center"><a href="./icons/yeelight-group.svg"><img src="./icons/yeelight-group.svg" width="100" height="100" alt="bulb"></a></td>
+    <td align="center"><a href="./icons/yeelight-bulb.svg"><img src="./icons/yeelight-bulb.svg" width="100" height="100" alt="bulb"></a></td>    
+    <td align="center"><a href="./icons/yeelight-filament.svg"><img src="./icons/yeelight-filament.svg" width="100" height="100" alt="filament"></a></td>
   </tr>
   <tr>
     <td align="center"><h4>Bulb Group</h4></td>
@@ -12,9 +12,9 @@
     <td align="center"><h4>Filament Bulb YLDP23YL</h4></td>
   </tr>
   <tr>
-    <td align="center"><a href="./icons/yeelight-gu10.svg"><img src="./icons/yeelight-gu10.svg" width="200" height="100" alt="gu10"></a></td>
-    <td align="center"><a href="./icons/yeelight-strip.svg"><img src="./icons/yeelight-strip.svg" width="200" height="100" alt="strip"></a></td>
-    <td align="center"><a href="./icons/yeelight-desk.svg"><img src="./icons/yeelight-desk.svg" width="200" height="100" alt="desk"></a></td>
+    <td align="center"><a href="./icons/yeelight-gu10.svg"><img src="./icons/yeelight-gu10.svg" width="100" height="100" alt="gu10"></a></td>
+    <td align="center"><a href="./icons/yeelight-strip.svg"><img src="./icons/yeelight-strip.svg" width="100" height="100" alt="strip"></a></td>
+    <td align="center"><a href="./icons/yeelight-desk.svg"><img src="./icons/yeelight-desk.svg" width="100" height="100" alt="desk"></a></td>
   </tr>
   <tr>
     <td align="center"><h4>GU10 YLDP004-A</h4></td>
@@ -22,9 +22,9 @@
     <td align="center"><h4>Desk lamp MJTD01YL</h4></td>
   </tr>
   <tr>
-    <td align="center"><a href="./icons/yeelight-bedside-2.svg"><img src="./icons/yeelight-bedside-2.svg" width="200" height="100" alt="bedside-2"></a></td>
-    <td align="center"><a href="./icons/yeelight-bedside-d2.svg"><img src="./icons/yeelight-bedside-d2.svg" width="200" height="100" alt="bedside-d2"></a></td>
-    <td align="center"><a href="./icons/yeelight-candela.svg"><img src="./icons/yeelight-candela.svg" width="200" height="100" alt="candela"></a></td>
+    <td align="center"><a href="./icons/yeelight-bedside-2.svg"><img src="./icons/yeelight-bedside-2.svg" width="100" height="100" alt="bedside-2"></a></td>
+    <td align="center"><a href="./icons/yeelight-bedside-d2.svg"><img src="./icons/yeelight-bedside-d2.svg" width="100" height="100" alt="bedside-d2"></a></td>
+    <td align="center"><a href="./icons/yeelight-candela.svg"><img src="./icons/yeelight-candela.svg" width="100" height="100" alt="candela"></a></td>
   </tr>
   <tr>
     <td align="center"><h4>Bedside MJCTD01YL</h4></td>
@@ -32,9 +32,9 @@
     <td align="center"><h4>Candela YLFW01YL</h4></td>
   </tr>
   <tr>
-    <td align="center"><a href="./icons/yeelight-bar-front.svg"><img src="./icons/yeelight-bar-front.svg" alt="bar-front"></a></td>
-    <td align="center"><a href="./icons/yeelight-bar-back.svg"><img src="./icons/yeelight-bar-back.svg" alt="bar-front"></a></td>
-    <td align="center"><a href="https://github.com/velijv/yeelight-font-awesome-icons"><img src="./icons/yeelight.svg" width="200" height="100" alt="Yeelight"></a></td>
+    <td align="center"><a href="./icons/yeelight-bar-front.svg"><img src="./icons/yeelight-bar-front.svg" width="100" height="100" alt="bar-front"></a></td>
+    <td align="center"><a href="./icons/yeelight-bar-back.svg"><img src="./icons/yeelight-bar-back.svg" width="100" height="100" alt="bar-front"></a></td>
+    <td align="center"><a href="https://github.com/velijv/yeelight-font-awesome-icons"><img src="./icons/yeelight.svg" width="100" height="100" alt="Yeelight"></a></td>
   </tr>  
   <tr>
     <td align="center"><h4>Light Bar Pro YLTD003 (front)</h4></td>
