@@ -2,7 +2,17 @@
 
 **Font Awesome 6** duotone-compatible SVG icons for **Yeelight** devices. Created for personal use for [Home Assistant](https://github.com/home-assistant) with [hass-fontawesome](https://github.com/thomasloven/hass-fontawesome). 
 
-![gu10](./icons/yeelight-gu10.svg) ![gu10](./icons/yeelight-gu10.svg)
+<a href="./icons/yeelight-group.svg"><img src="./icons/yeelight-group.svg" width="100" alt="group"></a>
+<a href="./icons/yeelight-bulb.svg"><img src="./icons/yeelight-bulb.svg" width="100" alt="bulb"></a>
+<a href="./icons/yeelight-filament.svg"><img src="./icons/yeelight-filament.svg" width="100" alt="filament"></a>
+<a href="./icons/yeelight-gu10.svg"><img src="./icons/yeelight-gu10.svg" width="100" alt="gu10"></a>
+<a href="./icons/yeelight-desk.svg"><img src="./icons/yeelight-desk.svg" width="100" alt="desk"></a>
+<a href="./icons/yeelight-bedside-2.svg"><img src="./icons/yeelight-bedside-2.svg" width="100" alt="bedside-2"></a>
+<a href="./icons/yeelight-bedside-d2.svg"><img src="./icons/yeelight-bedside-d2.svg" width="100" alt="bedside-d2"></a>
+<a href="./icons/yeelight-candela.svg"><img src="./icons/yeelight-candela.svg" width="100" alt="candela"></a>
+<a href="./icons/yeelight-bar-front.svg"><img src="./icons/yeelight-bar-front.svg" width="100" alt="bar-front"></a>
+<a href="./icons/yeelight-bar-back.svg"><img src="./icons/yeelight-bar-back.svg" width="100" alt="bar-back"></a>
+
 
 
 
