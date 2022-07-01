@@ -1,4 +1,4 @@
-# Yeelight 🔥 Font Awesome Duotone Icons for Home Assistant
+# Yeelight 🔥 Font Awesome duotone icons for Home Assistant
 
 Created to be used with [hass-fontawesome](https://github.com/thomasloven/hass-fontawesome). 
 
@@ -25,7 +25,7 @@ Some icons have linear gradients or glows in `#fullcolor` mode:
 
 ## Icons
 
-Made for what I have at home. Place an order for a new yeelight icon by sending me the light. 😉
+Made for what I have at home. Place an order for a new yeelight icon by sending me the device. 😉
 
 <table>
   <tr>
