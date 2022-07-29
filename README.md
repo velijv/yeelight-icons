@@ -106,6 +106,4 @@ If you'd like to request a new icon, I will create it based on the device you se
 
 [![Yeelight icons © 2022 by Veli-Johan Veromann is licensed under Attribution-NonCommercial-NoDerivatives 4.0 International](https://img.shields.io/badge/Licence-CC--BY--NC--ND%204.0-rgba%280%2C0%2C0%2C0%29?logo=CreativeCommons&logoColor=fff&labelColor=DF2B2F&style=flat-square&color=rgba(0,0,0,0.3))](https://creativecommons.org/licenses/by-nc/4.0/ "Yeelight iconby Veli-Johan Veromann is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.")
 
-###### This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
-
 ###### All product names, logos, and brands are property of their respective owners. All company, product and service names used are for identification purposes only. Use of these names, logos, and brands does not imply endorsement.
