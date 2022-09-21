@@ -74,6 +74,12 @@ If you'd like to request a new icon, I will create it based on the device you se
     <td align="center"> </td>
   </tr>  
   <tr>
+    <td align="center"><h4>Philips Zhirui Downlight</h4></td>    
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>  
+  <tr>
     <td align="center"><a href="./svg/yeelight-remote.svg"><img src="./svg/yeelight-remote.svg" width="100" height="100" alt="bulb"></a></td>    
     <td align="center"><a href="./svg/yeelight-group.svg"><img src="./svg/yeelight-group.svg" width="100" height="100" alt="bulb"></a></td>
     <td align="center"><a href="./svg/yeelight-bulb.svg"><img src="./svg/yeelight-bulb.svg" width="100" height="100" alt="bulb"></a></td>    
