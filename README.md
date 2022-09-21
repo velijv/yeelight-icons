@@ -24,7 +24,7 @@
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/velijv/yeelight-font-awesome-icons"><img src="./svg/yeelight.svg" width="100" height="50" alt="Yeelight"></a></td> 
+    <td align="center"><a href="./svg/yeelight-zhirui.svg"><img src="./svg/yeelight-zhirui.svg" width="100" height="50" alt="bulb"></a></td>
     <td align="center"><a href="./svg/yeelight-remote.svg"><img src="./svg/yeelight-remote.svg" width="100" height="50" alt="bulb"></a></td>
     <td align="center"><a href="./svg/yeelight-group.svg"><img src="./svg/yeelight-group.svg" width="100" height="50" alt="bulb"></a></td>
     <td align="center"><a href="./svg/yeelight-bulb.svg"><img src="./svg/yeelight-bulb.svg" width="100" height="50" alt="bulb"></a></td>    
